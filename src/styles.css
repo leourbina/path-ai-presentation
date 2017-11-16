@@ -1,0 +1,58 @@
+ul.big {
+  line-height: 2;
+}
+
+it {
+  text-transform: italic;
+}
+
+.profilepic {
+  height: 1em;
+  width: auto;
+  border-radius: 50%;
+}
+
+.full {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+
+.logo {
+  height: 6rem;
+  width: auto;
+  margin-right: 5rem;
+}
+
+.logo.bitsight {
+  height: 5rem;
+}
+
+.logo.hubspot {
+  height: 8rem;
+}
+
+.logo.drift {
+  height: 8rem;
+}
+
+.logo.path-ai {
+  margin: 0;
+}
+
+.logo.large {
+  height: 8rem;
+}
+
+.question {
+  display: block;
+  color: black;
+  font-size: 4rem;
+  margin-left: 1rem;
+}
